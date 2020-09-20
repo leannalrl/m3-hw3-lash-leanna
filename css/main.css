@@ -6,3 +6,10 @@
   background-color: #ff0000;
   border-color: #ff0000;
 }
+#index .jumbotron {
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
