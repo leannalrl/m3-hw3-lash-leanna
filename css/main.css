@@ -6,6 +6,7 @@
   src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Me5Q.ttf) format('truetype');
 }
 .btn-primary {
+  color: #000000;
   background-color: #ffc107;
   border-color: #ffc107;
 }
@@ -13,9 +14,12 @@
   background-color: #ff0000;
   border-color: #ff0000;
 }
-.nav {
+.bg-light {
   background-color: #ffc107;
-  height: 40px;
+}
+.navbar {
+  background-color: #ffc107;
+  height: 30%;
 }
 .footer {
   background-color: #000000;
